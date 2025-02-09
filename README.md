@@ -4,21 +4,21 @@ This project is a comprehensive Power BI dashboard built for analyzing sales dat
 
 🚀 Key Features
 
-Sales by Category: Insights into top-performing product categories (Technology, Office Supplies, Furniture).
+1.Sales by Category: Insights into top-performing product categories (Technology, Office Supplies, Furniture).
 
-Sales by Sub-Category: Analysis of the highest-grossing sub-categories like Phones, Chairs, and Binders.
+2.Sales by Sub-Category: Analysis of the highest-grossing sub-categories like Phones, Chairs, and Binders.
 
-Sales by Region: Regional sales analysis, with East and Central leading, and opportunities in the West.
+3.Sales by Region: Regional sales analysis, with East and Central leading, and opportunities in the West.
 
-Sales by Ship Mode: Standard Class as the dominant shipping method, followed by Second Class and First Class.
+4.Sales by Ship Mode: Standard Class as the dominant shipping method, followed by Second Class and First Class.
 
-Payment Modes: Distribution of sales by payment methods (Online, Cash on Delivery, Credit Cards).
+5.Payment Modes: Distribution of sales by payment methods (Online, Cash on Delivery, Credit Cards).
 
-Monthly Sales & Profit Trends: Time series visualizations of monthly sales and profit for 2019-2020.
+6.Monthly Sales & Profit Trends: Time series visualizations of monthly sales and profit for 2019-2020.
 
-Profit & Sales by State: Geographical breakdown of profit and sales performance across the U.S.
+7.Profit & Sales by State: Geographical breakdown of profit and sales performance across the U.S.
 
-15-Day Sales Forecasting: Prediction of sales trends for the next 15 days, using historical data and trend analysis.
+#15-Day Sales Forecasting: Prediction of sales trends for the next 15 days, using historical data and trend analysis.
 
 📈 Sales Forecasting
 The dashboard includes a 15-day sales forecast to provide insights into future performance, enabling better planning and resource allocation for the SuperStore. This feature is critical for businesses to stay ahead by anticipating sales peaks and potential drops.
